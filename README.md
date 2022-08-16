@@ -17,9 +17,9 @@ Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have ric
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@shota0315], Discord: [Nakamura#8279]
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nakamura-shota-3761a0191)
-- Phone Number: +81 50-5539-7487
+- 💬 Telegram : [@shota0315](https://t.me/shota0315)
+- LinkedIn: [Nakamura Shota](https://www.linkedin.com/in/nakamura-shota-3761a0191)
+- Discord: Nakamura#8279
 
 **Languages, Tools and Interest:**   
 
