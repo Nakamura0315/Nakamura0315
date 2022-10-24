@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have rich experience with Solana and EVM. Especially, DEFI and NFT caught my eyes. I have led many projects so far with mentioned skills.
+Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have rich experience with Solana and focusing on Cosmos ecosystem, Aptos & Sui. Especially, DEFI and NFT caught my eyes. I have led many projects so far with mentioned skills.
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
   
@@ -13,7 +13,7 @@ Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have ric
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I had worked in some blockchain companies like Solluminati, Genezys etc
-- 🌱 My proud of skills are anchor and solidity.
+- 🌱 My proud of skills are rust, golang & move.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
@@ -22,13 +22,12 @@ Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have ric
 
 **Languages, Tools and Interest:**   
 
- - Ethereum / Solana / BSC / Polygon / Cosmos
+ - Solana / Cosmos / Aptos / Sui
  - Smart Contract Development / Testing / Auditing
- - SPL-TOKEN / ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612
  - Solidity & Rust
  - Metaplex (NFT marketplace)
- - Cargo / Hardhat / Anchor
- - Web3.js / Ether.js
+ - Anchor / Cargo
+ - Web3.js
  - React.js / Next.js / React-native
  - Source Control
 
