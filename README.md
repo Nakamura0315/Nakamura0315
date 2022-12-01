@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have rich experience with Solana and focusing on Cosmos ecosystem, Aptos & Sui. Especially, DEFI and NFT caught my eyes. I have led many projects so far with mentioned skills.
+Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have rich experience on Solana and cosmos ecosystem, and focusing on Aptos and Sui ecosystem. Especially, DEFI and NFT caught my eyes. I have led many projects so far with mentioned skills.
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
   
@@ -24,12 +24,14 @@ Hi, I'm Nakamura Shota, a Senior Blockchain Engineer 🚀, currently, I have ric
 
  - Solana / Cosmos / Aptos / Sui
  - Smart Contract Development / Testing / Auditing
- - Solidity & Rust
+ - Rust, Golang, Move
  - Metaplex (NFT marketplace)
  - Anchor / Cargo
  - Web3.js
  - React.js / Next.js / React-native
  - Source Control
+ - Git
+ - Tendermint and IBC
 
 ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=Nakamura0315&show_icons=true&theme=radical)
 
